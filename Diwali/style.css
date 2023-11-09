@@ -1,0 +1,102 @@
+.logo{
+ height:100px;
+
+}
+.nav-logo{
+    background-color: rgb(81, 67, 96);
+    height:cover;
+}
+
+.item-text{
+    color:whitesmoke;
+}
+.item-text:hover{
+    color: rgb(56, 2, 2);
+}
+.nav-left{
+    margin-left: auto;
+}
+.myself{
+    color:rgb(213, 245, 4);
+    text-align: center;
+    font-style: italic ;
+    padding:10px;
+    margin:20px;
+}
+.body-img{
+    height:400px;
+    width:400px; 
+    border-radius: 950px;
+    margin:50px;
+    padding:40px;
+    display:flex;
+    justify-content:left;
+    border-color:transparent;
+}
+.box{
+    border: 2px solid rgb(255, 0, 0);
+}
+.para{
+    color:aliceblue;
+    display: flex;
+    justify-content:center;
+    text-align: end;
+    height:30px;
+    width:700px;
+}
+.myself-left{
+    height:50px;
+}
+.myself-right{
+    height:50px;
+}
+.rounded-float-start{
+    height:200px;
+    width:200px;
+    margin:100px;
+    border-radius: 10px;
+    
+}
+.rounded-float-middle{
+    height:200px;
+    width:200px;
+    margin: 100px;
+    border-radius: 10px;
+}
+.rounded-float-end{
+    height:200px;
+    width:200px;
+    margin: 76px;
+    border-radius: 10px;
+}
+.card{
+    display: inline-block;
+    justify-content: baseline;
+    margin: 76px;
+    padding:10px;
+    border-radius: 10px;
+}
+.card-img-top{
+    height:150px;
+    width: 150px;
+}
+.contact-button{
+    color:rgb(226, 190, 11);
+    font-size:large;
+    font-weight:600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+.img-ic{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius:30px;
+    background-color: transparent;
+}
+.bg-para{
+    color:rgb(147, 208, 16);
+    text-align:center;
+    font-weight: bold;
+    font-family: cursive;
+}
